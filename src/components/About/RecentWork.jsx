@@ -3,61 +3,79 @@ const RecentWork = () => {
         <>
             <div className='container py-16 pt-5'>
                 <h1 className='border-bottom mt-5 mb-5 text-dark display-6 pb-4 text-center'>
-                    Recent Work
+                    Recent Project
                 </h1>
-                {/* <div class='row gx-2 mb-5'>
+                <div class='row gx-2 mb-5'>
                     <div class='col-12 col-lg-4'>
                         <p class='fw-semibold mb-1 fs-5 text-dark'>
-                            PT Gamatechno Indonesia
+                            Project Kanban
                         </p>
                     </div>
                     <div class='col-12 col-lg-8'>
                         <p class='fw-semibold fs-5 text-dark'>
-                            Worxspace (Nuxt Js)
+                            React Js
                         </p>
                         <p class='text-muted text-dark fw-light fs-5'>
                             <span>
-                                Worxspace is next level company instanst
-                                messaging by PT Gamatechno Indonesia, this apps
-                                is a solution to many problems in office. This
-                                apps include Chat Engine, Task management, etc
+                               Application Kanban Project
                             </span>
                         </p>
                         <a
                             target='_blank'
                             href='https://worxspace.id/'
                             class='link-body fs-5 text-primary'>
-                            https://worxspace.id/
+                            https://teachz77.github.io/Kanban-Project/
                         </a>
                     </div>
                 </div>
                 <div class='row gx-2 mb-5'>
                     <div class='col-12 col-lg-4'>
                         <p class='fw-semibold mb-1 fs-5 text-dark'>
-                            PT Gamatechno Indonesia
+                            Project To Do List
                         </p>
                     </div>
                     <div class='col-12 col-lg-8'>
                         <p class='fw-semibold fs-5 text-dark'>
-                            Sidig (Codeigniter)
+                            React Js
                         </p>
                         <p class='text-muted text-dark fw-light fs-5'>
                             <span>
-                                Sidig is an all in one distribution platform for
-                                medical device companies or products to optimize
-                                supply chain management and product after sales
-                                services so as to be able to support business
-                                operations and regulatory implementation.
+                                Project To Do build in React Js
                             </span>
                         </p>
                         <a
                             target='_blank'
                             href='https://sidig.id/'
                             class='link-body fs-5 text-primary'>
-                            https://sidig.id/
+                            https://project-to-do-react-mattzie.vercel.app/
                         </a>
                     </div>
-                </div> */}
+                </div>
+
+                <div class='row gx-2 mb-5'>
+                    <div class='col-12 col-lg-4'>
+                        <p class='fw-semibold mb-1 fs-5 text-dark'>
+                            Project Money Management
+                        </p>
+                    </div>
+                    <div class='col-12 col-lg-8'>
+                        <p class='fw-semibold fs-5 text-dark'>
+                            React Js
+                        </p>
+                        <p class='text-muted text-dark fw-light fs-5'>
+                            <span>
+                                Project Money Management build in React Js
+                            </span>
+                        </p>
+                        <a
+                            target='_blank'
+                            href='https://sidig.id/'
+                            class='link-body fs-5 text-primary'>
+                            https://web-app-money-management.vercel.app/
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </>
     );
