@@ -22,9 +22,9 @@ const RecentWork = () => {
                         </p>
                         <a
                             target='_blank'
-                            href='https://worxspace.id/'
+                            href='https://teachz77.github.io/Kanban-Project/'
                             class='link-body fs-5 text-primary'>
-                            https://teachz77.github.io/Kanban-Project/
+                            Link
                         </a>
                     </div>
                 </div>
@@ -45,9 +45,9 @@ const RecentWork = () => {
                         </p>
                         <a
                             target='_blank'
-                            href='https://sidig.id/'
+                            href='https://project-to-do-react-mattzie.vercel.app/'
                             class='link-body fs-5 text-primary'>
-                            https://project-to-do-react-mattzie.vercel.app/
+                           Link
                         </a>
                     </div>
                 </div>
@@ -69,9 +69,9 @@ const RecentWork = () => {
                         </p>
                         <a
                             target='_blank'
-                            href='https://sidig.id/'
+                            href='https://web-app-money-management.vercel.app/'
                             class='link-body fs-5 text-primary'>
-                            https://web-app-money-management.vercel.app/
+                            Link
                         </a>
                     </div>
                 </div>
